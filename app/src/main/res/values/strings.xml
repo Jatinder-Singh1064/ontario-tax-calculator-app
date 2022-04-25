@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">N01419541_Q2_TaxCalculatorApp</string>
+    <string name="heading">Ontario Tax Calculator</string>
+    <string name="tv_annualIncome">Enter Annual Income ($)</string>
+    <string name="tv_max_rrsp_limit">Max. RRSP Deduction Limit</string>
+    <string name="tv_RRSP_range">Choose the Percentage for RRSP deduction</string>
+    <string name="tv_RRSp_Contribution">RRSP Contribution this year</string>
+    <string name="tv_RRSp_NextYear">RRSP Contribution for next year</string>
+    <string name="tv_taxableIncome">Taxable Income</string>
+    <string name="tv_TotalTaxCalculated">Total Tax Calculated</string>
+</resources>
